@@ -1,4 +1,4 @@
-# Hi, I'm Anand Charvin 👋
+# Hi, I'm Charvin 👋
 
 **GIS Specialist | Data Analytics | Python Enthusiast | Optimisation Advocate**
 
